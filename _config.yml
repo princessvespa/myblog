@@ -26,7 +26,8 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: http://athenarhodes.netlify.com/
+url: http://athenarhodes.netlify.com
+basurl: /blog
 # your url: http://USERNAME.github.io
 
 permalink: http://athenarhodes.netlify.com/
