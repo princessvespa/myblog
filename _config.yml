@@ -92,7 +92,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 #about: false
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -234,4 +234,4 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: ""
+    base_url: "/http://athenarhodes.netlify.com"
