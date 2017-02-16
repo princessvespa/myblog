@@ -35,8 +35,8 @@ permalink: http://athenarhodes.netlify.com/
 markdown: kramdown
 highlighter: rouge
 
- To enable google analytics, supply your token below
- analytics-google: 'UA-92055999-1'
+#To enable google analytics, supply your token below
+analytics-google: 'UA-92055999-1'
 
 
 # To enable piwik tracking, supply your url & site ID below
