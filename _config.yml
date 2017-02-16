@@ -135,7 +135,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url:"http://athenarhodes.netlify.com/"
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -174,11 +174,11 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
+        name: Athena Rhodes
+        bio: A girl who travels the world eating breakfast
+        external-image: true
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: RhodesAthena
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -234,4 +234,4 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: "/http://athenarhodes.netlify.com"
+    base_url: "http://athenarhodes.netlify.com/"
