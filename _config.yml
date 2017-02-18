@@ -17,7 +17,7 @@ description: A blog about nonsense and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/P70217-140337.jpg
 
 # If you want to include your resume, set to true
@@ -183,7 +183,7 @@ authors:
     johndoe:
         name: Athena Rhodes
         bio: A girl who travels the world eating breakfast
-        external-image: true
+        external-image: false 
         picture: assets/images/P70217-140337.jpg
         twitter: RhodesAthena
     jamesfoster:
